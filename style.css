@@ -1,0 +1,76 @@
+body {
+    background-image: url(./aSSets/topography.png);
+    font-family: 'Courier Prime', monospace;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color:#333333;
+    height: 60px;
+}
+  
+li {
+    float: right;
+}
+  
+li a {
+    display: block;
+    color:#ff0099;
+    text-align: center;
+    padding-top: 18px;
+    padding-right: 30px;
+    text-transform: uppercase;
+}
+
+.fab {
+      font-size: 30px;
+      color: white;
+}
+
+i {
+      display: block;
+      text-align: center;
+      float: left;
+      padding-left: 8%;
+      padding-top: 15px;
+}
+
+ul {
+      padding-right: 10%;
+}
+
+section, article {
+      padding-left: 10%;
+      padding-right: 10%;
+      margin-top: 60px;
+}
+
+.intro h3 {
+    color: #ff0099;
+    margin-top: 30px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+hr {
+    width: 20px;
+    border-top: 1px black dashed;
+    margin-top: 40px;
+}
+
+p {
+    line-height: 30px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.wiki h2 {
+    text-align: center;
+}
+
+.wiki h3 {
+    padding-top: 40px;
+}
